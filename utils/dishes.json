@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "dish": "Paneer Tikka Masala",
+    "hotel": "Taste of India",
+    "diet": "Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Paneer",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "2",
+    "dish": "Chicken Biryani",
+    "hotel": "Spice Paradise",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Chicken",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "3",
+    "dish": "Vegan Shawarma Wrap",
+    "hotel": "Vegan Delights",
+    "diet": "Vegan",
+    "cuisine": "Mediterranean",
+    "protein": "Vegetables",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "4",
+    "dish": "Beef Kebab Platter",
+    "hotel": "Mediterranean Grill",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "protein": "Beef",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "5",
+    "dish": "Vegetable Biryani",
+    "hotel": "Spice Paradise",
+    "diet": "Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Vegetables",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "6",
+    "dish": "Palak Paneer",
+    "hotel": "Flavors of India",
+    "diet": "Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Paneer",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "7",
+    "dish": "Lamb Rogan Josh",
+    "hotel": "Curry House",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Lamb",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "8",
+    "dish": "Greek Salad",
+    "hotel": "Mediterranean Delight",
+    "diet": "Vegetarian",
+    "cuisine": "Mediterranean",
+    "protein": "Vegetables",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "9",
+    "dish": "Chicken Souvlaki",
+    "hotel": "Mediterranean Grill",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "protein": "Chicken",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "10",
+    "dish": "Tofu Tikka Masala",
+    "hotel": "Taste of India",
+    "diet": "Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Tofu",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "11",
+    "dish": "Falafel Wrap",
+    "hotel": "Vegan Delights",
+    "diet": "Vegetarian",
+    "cuisine": "Mediterranean",
+    "protein": "Chickpeas",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "12",
+    "dish": "Chicken Curry",
+    "hotel": "Flavors of India",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Chicken",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "13",
+    "dish": "Vegan Moussaka",
+    "hotel": "Mediterranean Delight",
+    "diet": "Vegan",
+    "cuisine": "Mediterranean",
+    "protein": "Eggplant",
+    "imageUrl": "../assets/bg1.jpg"
+  },
+  {
+    "id": "14",
+    "dish": "Beef Gyro",
+    "hotel": "Mediterranean Grill",
+    "diet": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "protein": "Beef",
+    "imageUrl": "../assets/bg2.jpg"
+  },
+  {
+    "id": "15",
+    "dish": "Masoor Dal",
+    "hotel": "Flavors of India",
+    "diet": "Vegetarian",
+    "cuisine": "Indian",
+    "protein": "Lentils",
+    "imageUrl": "../assets/bg1.jpg"
+  }
+]
